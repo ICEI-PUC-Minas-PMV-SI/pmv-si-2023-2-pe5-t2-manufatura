@@ -63,16 +63,51 @@ Cenário: a rede será composta da matriz da empresa em Betim (MG) que se liga c
 
 Com base em todo esse cenário, a divisão física da rede ficou representada conforme a imagem abaixo. A topologia escolhida foi a hierárquica.
 
+![Topologia](imgs/topologia.png)
+
 ## 2.2 Planilha de materiais
 
 A tabela a seguir reflete a lista de materiais que serão empregados no projeto bem como seus valores correspondentes. A final é demonstrado o valor orçado que será necessário para a Matriz (R$ 1.285.56,21), Escritório 1 (R$ 231.422,90), Escritório 2 (R$ 407.666,30), Filial 1 (R$ 761.51,60), Filial 2 (R$ 581.903,90) e Filial 3 (R$ 581.903,90). O total geral estimado para este projeto é de R$3.268.073,91.
+
+![Tabela de materiais](imgs/materiais.png)
 
 ## 2.3 Divisão lógica da rede
 
 A tabela abaixo contém os dispositivos da rede, seus nomes, endereçamento, portas e roteamento.
 
+Dispositivos | Nome | Portas / Endereçamento
+--------|-----------|-------------------------
+Nuvem | CloudAWS | |
+Roteador | RouterMatriz | |
+Roteador | RouterEsc1 | |
+Roteador | RouterEsc2 | |
+Roteador | RouterFilial1 | |
+Roteador | RouterFilial2 | |
+Roteador | RouterFilial3 | |
+Switch | SwitchMatriz | |
+Switch | SwitchEsc1 | |
+Switch | SwitchEsc2 | |
+Switch | SwitchFilial1 | |
+Switch | SwitchFilial2 | |
+Switch | SwitchFilial3 | |
+Servidor | ServerMatriz | |
+Computador | PC1Matriz | |
+Computador | PC2Matriz | IPv4 Address: 172.20.2.12/16 (Notação CIDR) |
+Computador | PC1Esc1 | |
+Computador | PC2Esc1 | IPv4 Address: 172.21.0.12/16 (Notação CIDR) |
+Computador | PC1Esc2 | |
+Computador | PC2Esc2 | IPv4 Address: 172.22.0.12/16 (Notação CIDR) |
+Computador | PC1Filial1 | |
+Computador | PC2Filial1 | IPv4 Address: 172.23.0.12/16 (Notação CIDR) |
+Computador | PC1Filial2 | |
+Computador | PC2Filial2 | IPv4 Address: 172.24.0.12/16 (Notação CIDR) |
+Computador | PC1Filial3 | |
+Computador | PC2Filial3 | IPv4 Address: 172.25.0.12/16 (Notação CIDR) |
+
 ## 2.4 Planilha links
 
 A tabela abaixo contém informações correspondentes a divisão de colaboradores por cada localidade dentro da estrutura da empresa e da utilização da estrutura de rede quanto a aplicações e serviços. A matriz conta com um número abrangente de 350 colaboradores por ser a sede de produção, o escritório 1 conta com 50 colaboradores que atuam como diretoria e estratégia de negócio, escritório 2 conta com 100 colaboradores atuando em vendas e RH e as filias compartilham estruturas locais centralizadas variando entre 150 e 200 colaboradores.
+
+![Tabela de cabeamento](imgs/cabeamento.png)
 
 </div>
