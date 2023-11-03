@@ -77,31 +77,31 @@ A tabela abaixo contém os dispositivos da rede, seus nomes, endereçamento, por
 
 Dispositivos | Nome | Portas / Endereçamento
 --------|-----------|-------------------------
-Nuvem | CloudAWS | |
-Roteador | RouterMatriz | |
-Roteador | RouterEsc1 | |
-Roteador | RouterEsc2 | |
-Roteador | RouterFilial1 | |
-Roteador | RouterFilial2 | |
-Roteador | RouterFilial3 | |
-Switch | SwitchMatriz | |
-Switch | SwitchEsc1 | |
-Switch | SwitchEsc2 | |
-Switch | SwitchFilial1 | |
-Switch | SwitchFilial2 | |
-Switch | SwitchFilial3 | |
-Servidor | ServerMatriz | |
-Computador | PC1Matriz | |
+Nuvem | CloudAWS | ![](imgs/enderecamento_1.png) |
+Roteador | RouterMatriz | ![](imgs/enderecamento_2.png) |
+Roteador | RouterEsc1 | ![](imgs/enderecamento_3.png) |
+Roteador | RouterEsc2 | ![](imgs/enderecamento_4.png) |
+Roteador | RouterFilial1 | ![](imgs/enderecamento_5.png) |
+Roteador | RouterFilial2 | ![](imgs/enderecamento_6.png) |
+Roteador | RouterFilial3 | ![](imgs/enderecamento_7.png) |
+Switch | SwitchMatriz | ![](imgs/enderecamento_8.png) |
+Switch | SwitchEsc1 | ![](imgs/enderecamento_9.png) |
+Switch | SwitchEsc2 | ![](imgs/enderecamento_10.png) |
+Switch | SwitchFilial1 | ![](imgs/enderecamento_11.png) |
+Switch | SwitchFilial2 | ![](imgs/enderecamento_12.png) |
+Switch | SwitchFilial3 | ![](imgs/enderecamento_13.png) |
+Servidor | ServerMatriz | ![](imgs/enderecamento_14.png) |
+Computador | PC1Matriz | ![](imgs/enderecamento_15.png) |
 Computador | PC2Matriz | IPv4 Address: 172.20.2.12/16 (Notação CIDR) |
-Computador | PC1Esc1 | |
+Computador | PC1Esc1 | ![](imgs/enderecamento_16.png) |
 Computador | PC2Esc1 | IPv4 Address: 172.21.0.12/16 (Notação CIDR) |
-Computador | PC1Esc2 | |
+Computador | PC1Esc2 | ![](imgs/enderecamento_17.png) |
 Computador | PC2Esc2 | IPv4 Address: 172.22.0.12/16 (Notação CIDR) |
-Computador | PC1Filial1 | |
+Computador | PC1Filial1 | ![](imgs/enderecamento_18.png) |
 Computador | PC2Filial1 | IPv4 Address: 172.23.0.12/16 (Notação CIDR) |
-Computador | PC1Filial2 | |
+Computador | PC1Filial2 | ![](imgs/enderecamento_19.png) |
 Computador | PC2Filial2 | IPv4 Address: 172.24.0.12/16 (Notação CIDR) |
-Computador | PC1Filial3 | |
+Computador | PC1Filial3 | ![](imgs/enderecamento_20.png) |
 Computador | PC2Filial3 | IPv4 Address: 172.25.0.12/16 (Notação CIDR) |
 
 ## 2.4 Planilha links
