@@ -16,9 +16,11 @@ namespace backend.Models
         public string Cor { get; set; }
 
         [Required(ErrorMessage = "Obrigatório informar o preço")]
+        [Display(Name = "Preço")]
         public decimal Preco { get; set; }
 
         [Required(ErrorMessage = "Obrigatório informar a quantidade em estoque")]
+        [Display(Name = "Quantidade em estoque")]
         public int QuantidadeEstoque { get; set; }
 
     }
