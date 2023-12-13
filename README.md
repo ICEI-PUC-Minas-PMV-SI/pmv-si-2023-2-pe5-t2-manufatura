@@ -12,9 +12,10 @@ O presente projeto consiste no desenvolvimento de uma infraestrutura de rede rob
 
 * Andressa Cordeiro Kahn 
 * Carolina Moura
-* Gabriella Victória da Silveira Pecsén
-* Rafael Machado Bueno
 * Davisson José de Souza Gomes
+* Gabriella Victória da Silveira Pecsén
+* Luiz Carlos Ferreira
+* Rafael Machado Bueno
 
 ## Orientador
 
